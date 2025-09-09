@@ -1,0 +1,4 @@
+repository "Social@202.180.17.162:8087"
+  path "/"
+    br "/main"
+    co "/main"
